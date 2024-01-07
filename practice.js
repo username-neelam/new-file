@@ -547,7 +547,7 @@ for(let i=2;i<=n;i++){
 //     for(k=1;k<=2*(n-i)-1;k++){
 //       str+="*"
 //     }
-//     console.log(str);
+//     console.log(str);]]
 //   }
     
 
